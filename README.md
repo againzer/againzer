@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @againzer
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, sql, html, css
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 Reach out via email @ againer21@gmail.com
 
